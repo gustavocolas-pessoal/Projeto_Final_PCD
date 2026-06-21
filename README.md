@@ -1,2 +1,99 @@
-# Projeto_Final_PCD
-Projeto final de Prática em Ciência de Dados: Jogo do Dilema dos Prisioneiros
+# Jogo do Dilema dos Prisioneiros
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue">
+  <img src="https://img.shields.io/badge/Pygame-CE-green">
+  <img src="https://img.shields.io/badge/Área-Game%20Theory-darkred">
+</p>
+
+Jogo interativo do Dilema dos Prisioneiros desenvolvido em Python com a biblioteca Pygame. O jogador enfrenta seis bots com comportamentos distintos - desde estratégias fixas até agentes com memória das rodadas anteriores - e deve descobrir, por tentativa e erro, qual é a estratégia ótima para cada adversário. Este projeto é um trabalho de final do primeiro semestre da ILUM do aluno Gustavo Junqueira Colas.
+
+## Como executar:
+
+1. Baixe ou clone o repositório e extraia os arquivos em uma pasta
+
+2. Com o seu editor (preferencialmente o VSCode), vá em *File*, *Open Folder* e selecione a pasta do projeto
+
+3. Instale as dependências com o comando:
+```sh
+pip install pygame
+```
+
+4. Execute o script principal:
+```sh
+python main.py
+```
+
+5. Use as setas do teclado (`>` para avançar, `<` para voltar) para navegar entre as telas, e clique nos botões para jogar
+
+## Conteúdo:
+
+<ul>
+  <li>:page_facing_up: <b>main.py</b>: script principal - inicializa o Pygame, define os bots, as funções de desenho e roda o loop do jogo</li>
+  <li>:file_folder: <b>FINAL_PCD_IMAGENS</b>: contém todos os assets visuais do jogo</li>
+    <ul>
+      <li>:framed_picture: <b>image-1.png</b> a <b>image-5.png</b>: frames da animação de abertura da cela no menu</li>
+      <li>:framed_picture: <b>Captura de tela 2026-05-11 105120.png</b>: imagem do jornal fictício de introdução</li>
+    </ul>
+  <li>:spiral_notepad: <b>FINAL_PCD_COMPLETO.ipynb</b>: relatório do projeto em formato Jupyter Notebook, com o código comentado e as seções de introdução, metodologia, resultados e conclusão</li>
+</ul>
+
+## Os bots:
+
+O jogo conta com dois grupos de adversários:
+
+**Sem memória** - tomam decisões independentemente do histórico:
+| Bot | Comportamento |
+|---|---|
+| **Randômico** | Escolhe aleatoriamente entre trair e cooperar a cada rodada |
+| **Bonzinho** | Sempre coopera |
+| **Malvadão** | Sempre trai |
+
+**Com memória** - adaptam sua estratégia com base no que o jogador fez:
+| Bot | Comportamento |
+|---|---|
+| **Vingativo** | Coopera até ser traído uma vez; depois trai para sempre |
+| **Imitador** | Copia exatamente a última jogada do jogador (Tit-for-Tat) |
+| **Bravo** | Retalia traições, mas perdoa após duas cooperações consecutivas |
+
+## XKCD relevante:
+
+![img](https://imgs.xkcd.com/comics/game_theory.png)
+
+## Professor avaliador:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/drcassar">
+        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Cassar no Github"/><br>
+        <b>Prof. Dr. Daniel R. Cassar</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jamesmalmeida">
+        <img src="https://avatars.githubusercontent.com/u/108157661?v=4" width="100px;" alt="Foto do James no Github"/><br>
+        <b>Prof. James Moraes de Almeida</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/llemos">
+        <img src="https://avatars.githubusercontent.com/u/1894434?v=4" width="100px;" alt="Foto do Leandro no Github"/><br>
+        <b>Prof. Leandro Nascimento Lemos</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Aluno:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gustavocolas-pessoal">
+        <img src="https://avatars.githubusercontent.com/u/gustavocolas-pessoal" width="100px;" alt="Foto do Gustavo no Github"/><br>
+        <b>Gustavo Junqueira Colas</b>
+      </a>
+    </td>
+  </tr>
+</table>
