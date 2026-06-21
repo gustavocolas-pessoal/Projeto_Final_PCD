@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Área-Game%20Theory-darkred">
 </p>
 
-Jogo interativo do Dilema dos Prisioneiros desenvolvido em Python com a biblioteca Pygame. O jogador enfrenta seis bots com comportamentos distintos - desde estratégias fixas até agentes com memória das rodadas anteriores - e deve descobrir qual é a estratégia ótima para cada adversário. Este projeto é um trabalho de final do primeiro semestre da ILUM do aluno Gustavo Junqueira Colas.
+Jogo interativo do Dilema dos Prisioneiros desenvolvido em Python com a biblioteca Pygame. O jogador enfrenta seis bots com comportamentos distintos - desde estratégias fixas até agentes com memória das rodadas anteriores - e deve descobrir qual é a estratégia ótima para cada adversário. Este projeto é um trabalho de final da disciplina Práticas em Ciência de Dados do primeiro semestre da ILUM do aluno Gustavo Junqueira Colas.
 
 ## Como executar:
 
