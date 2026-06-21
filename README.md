@@ -90,7 +90,7 @@ O jogo conta com dois grupos de adversários:
   <tr>
     <td align="center">
       <a href="https://github.com/gustavocolas-pessoal">
-        <img src="https://avatars.githubusercontent.com/u/gustavocolas-pessoal" width="100px;" alt="Foto do Gustavo no Github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/284495799?s=80&v=4" width="100px;" alt="Foto do Gustavo no Github"/><br>
         <b>Gustavo Junqueira Colas</b>
       </a>
     </td>
