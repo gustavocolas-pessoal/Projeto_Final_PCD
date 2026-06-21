@@ -12,30 +12,29 @@ Jogo interativo do Dilema dos Prisioneiros desenvolvido em Python com a bibliote
 
 1. Baixe ou clone o repositório e extraia os arquivos em uma pasta
 
-2. Com o seu editor (preferencialmente o VSCode), vá em *File*, *Open Folder* e selecione a pasta do projeto
+2. Com o seu editor (preferencialmente o VSCode), vá em *File*, *Open Folder* e selecione a pasta **Projeto Final**
 
 3. Instale as dependências com o comando:
 ```sh
-pip install pygame
+pip install -r requirements.txt
 ```
 
-4. Execute o script principal:
-```sh
-python main.py
-```
-
-5. Use as setas do teclado (`>` para avançar, `<` para voltar) para navegar entre as telas, e clique nos botões para jogar
+4. Abra o arquivo **FINAL_PCD_explicado_(certo).ipynb** e execute todas as células em ordem
 
 ## Conteúdo:
 
 <ul>
-  <li>:page_facing_up: <b>main.py</b>: script principal - inicializa o Pygame, define os bots, as funções de desenho e roda o loop do jogo</li>
-  <li>:file_folder: <b>FINAL_PCD_IMAGENS</b>: contém todos os assets visuais do jogo</li>
+  <li>:file_folder: <b>Projeto Final</b>: contém todos os arquivos necessários para rodar o jogo</li>
     <ul>
-      <li>:framed_picture: <b>image-1.png</b> a <b>image-5.png</b>: frames da animação de abertura da cela no menu</li>
-      <li>:framed_picture: <b>Captura de tela 2026-05-11 105120.png</b>: imagem do jornal fictício de introdução</li>
+      <li>:file_folder: <b>FINAL_PCD_IMAGENS</b>: contém todos os assets visuais do jogo</li>
+        <ul>
+          <li>:framed_picture: <b>image-1.png</b> a <b>image-5.png</b>: frames da animação de abertura da cela no menu</li>
+          <li>:framed_picture: <b>Captura de tela 2026-05-11 105120.png</b>: imagem do jornal fictício de introdução</li>
+        </ul>
+      <li>:notebook: <b>FINAL_PCD_explicado_(certo).ipynb</b>: relatório completo do projeto com o código comentado e pronto para rodar, acompanhado das seções de introdução, metodologia, resultados e conclusão</li>
+      <li>:notebook: <b>primeiro_rascunho.ipynb</b>: versão inicial do jogo, sem interface gráfica, rodando inteiramente no terminal - incluída para que o leitor possa acompanhar a evolução do projeto</li>
+      <li>:spiral_notepad: <b>requirements.txt</b>: lista das bibliotecas necessárias para rodar o projeto</li>
     </ul>
-  <li>:spiral_notepad: <b>FINAL_PCD_COMPLETO.ipynb</b>: relatório do projeto em formato Jupyter Notebook, com o código comentado e as seções de introdução, metodologia, resultados e conclusão</li>
 </ul>
 
 ## Os bots:
@@ -60,7 +59,7 @@ O jogo conta com dois grupos de adversários:
 
 ![img](https://imgs.xkcd.com/comics/game_theory.png)
 
-## Professor avaliador:
+## Professores avaliadores:
 
 <table>
   <tr>
