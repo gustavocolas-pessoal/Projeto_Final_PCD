@@ -57,7 +57,7 @@ O jogo conta com dois grupos de adversários:
 
 ## XKCD relevante:
 
-![img](https://www.explainxkcd.com/wiki/index.php/2966:_Exam_Numbers)
+![img](https://www.explainxkcd.com/wiki/images/thumb/5/5f/exam_numbers_2x.png/830px-exam_numbers_2x.png)
 
 ## Professores avaliadores:
 
