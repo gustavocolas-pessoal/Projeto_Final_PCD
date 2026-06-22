@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Tecnologias Utilizadas:
 
-O projeto foi confeccionado inteiramente em Jupyter Notebook, particularmente na linguagem Python (versão 3.13), utilizando das bibliotecas nativas random e sys, além da biblioteca externa Pygame. Inteligência artificial (na forma de LLMs) foi utilizada para guiar o aluno nos aprendizados da biblioteca Pygame e do uso do GitHub, como também para algumas tarefas mecânicas (exemplo: revisão ortográfica). 
+O projeto foi confeccionado inteiramente em *Jupyter Notebook*, particularmente na linguagem *Python* (versão 3.13), utilizando das bibliotecas nativas *random* e *sys*, além da biblioteca externa *Pygame*. Inteligência artificial (na forma de *LLMs*) foi utilizada para guiar o aluno nos aprendizados da biblioteca *Pygame* e do uso do *GitHub*, como também para algumas tarefas mecânicas (exemplo: revisão ortográfica). 
 
 
 ## Os bots:
@@ -107,4 +107,4 @@ O jogo conta com dois grupos de adversários:
 
 ## Agradecimentos:
 
-Aos professores supracitados Prof. Leandro Nascimento Lemos, Prof. James Moraes de Almeida e Prof. Dr. Daniel R. Cassar, por fornecer base teórica de programação em Python e lógica computacional, como também por sanar dúvidas fundamentais na criação do projeto. Aos colegas de sala e amigos Vinícius M. M. Cutolo, Filipi Martins, Pedro Lucas M. S. de Sá e Gabriel O. Paiva, por ajudarem a avaliar o andamento do projeto (dizendo se, por exemplo, a posição dos textos estava boa) e por sugerirem materiais extras (como o vídeo do canal Veritasium). 
+Aos professores supracitados Prof. Leandro Nascimento Lemos, Prof. James Moraes de Almeida e Prof. Dr. Daniel R. Cassar, por fornecer base teórica de programação em Python e lógica computacional, como também por sanar dúvidas fundamentais na criação do projeto. Aos colegas de sala e amigos Vinícius M. M. Cutolo, Filipi Martins, Pedro Lucas M. S. de Sá e Gabriel O. Paiva, por ajudarem a avaliar o andamento do projeto (dizendo se, por exemplo, a posição dos textos estava boa) e por sugerirem materiais extras (como o vídeo do canal *Veritasium*). 
