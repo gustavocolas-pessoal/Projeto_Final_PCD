@@ -39,18 +39,23 @@ pip install -r requirements.txt
     </ul>
 </ul>
 
+## Tecnologias Utilizadas:
+
+O projeto foi confeccionado inteiramente em Jupyter Notebook, particularmente na linguagem Python (versão 3.13), utilizando das bibliotecas nativas random e sys, além da biblioteca externa Pygame. Inteligência artificial (na forma de LLMs) foi utilizada para guiar o aluno nos aprendizados da biblioteca Pygame e do uso do GitHub, como também para algumas tarefas mecânicas (exemplo: revisão ortográfica). 
+
+
 ## Os bots:
 
 O jogo conta com dois grupos de adversários:
 
-**Sem memória** - tomam decisões independentemente do histórico:
+**Sem memória** - tomam decisões independentemente do histórico de jogadas:
 | Bot | Comportamento |
 |---|---|
 | **Randomico** | Escolhe aleatoriamente entre trair e cooperar a cada rodada |
 | **Bonzinho** | Sempre coopera |
 | **Malvadão** | Sempre trai |
 
-**Com memória** - adaptam sua estratégia com base no que o jogador fez:
+**Com memória** - "adaptam" sua estratégia com base no que o jogador fez:
 | Bot | Comportamento |
 |---|---|
 | **Vingativo** | Coopera até ser traído uma vez; depois trai para sempre |
@@ -98,4 +103,8 @@ O jogo conta com dois grupos de adversários:
     </td>
   </tr>
 </table>
-<img src="Imagens do README\Rodape.png"/>
+<img src="Imagens do README\Rodape.png"/> 
+
+## Agradecimentos:
+
+Aos professores supracitados Prof. Leandro Nascimento Lemos, Prof. James Moraes de Almeida e Prof. Dr. Daniel R. Cassar, por fornecer base teórica de programação em Python e lógica computacional, como também por sanar dúvidas fundamentais na criação do projeto. Aos colegas de sala e amigos Vinícius M. M. Cutolo, Filipi Martins, Pedro Lucas M. S. de Sá e Gabriel O. Paiva, por ajudarem a avaliar o andamento do projeto (dizendo se, por exemplo, a posição dos textos estava boa) e por sugerirem materiais extras (como o vídeo do canal Veritasium). 
