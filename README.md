@@ -26,7 +26,7 @@ pip install -r requirements.txt
 <ul>
   <li>:file_folder: <b>Projeto Final</b>: contém todos os arquivos necessários para rodar o jogo</li>
     <ul>
-      <li>:file_folder: <b>FINAL_PCD_IMAGENS</b>: contém todos os assets visuais do jogo</li>
+      <li>:file_folder: <b>FINAL_PCD_IMAGENS</b>: contém todos as imagens que são usadas no jogo</li>
         <ul>
           <li>:framed_picture: <b>image-1.png</b> a <b>image-5.png</b>: frames da animação de abertura da cela no menu</li>
           <li>:framed_picture: <b>Captura de tela 2026-05-11 105120.png</b>: imagem do jornal fictício de introdução</li>
