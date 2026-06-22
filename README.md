@@ -57,7 +57,7 @@ O jogo conta com dois grupos de adversários:
 
 ## XKCD relevante:
 
-![img](https://imgs.xkcd.com/comics/game_theory.png)
+![img](https://www.explainxkcd.com/wiki/index.php/2966:_Exam_Numbers)
 
 ## Professores avaliadores:
 
