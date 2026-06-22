@@ -1,3 +1,5 @@
+<img scr="Imagens do README\Cabecalho.png"\>
+
 # Jogo do Dilema dos Prisioneiros
 
 <p align="center">
@@ -44,7 +46,7 @@ O jogo conta com dois grupos de adversários:
 **Sem memória** - tomam decisões independentemente do histórico:
 | Bot | Comportamento |
 |---|---|
-| **Randômico** | Escolhe aleatoriamente entre trair e cooperar a cada rodada |
+| **Randomico** | Escolhe aleatoriamente entre trair e cooperar a cada rodada |
 | **Bonzinho** | Sempre coopera |
 | **Malvadão** | Sempre trai |
 
@@ -57,7 +59,7 @@ O jogo conta com dois grupos de adversários:
 
 ## XKCD (adaptado) relevante:
 
-![img](https://www.explainxkcd.com/wiki/images/thumb/5/5f/exam_numbers_2x.png/830px-exam_numbers_2x.png)
+<img scr="Imagens do README\XKCD_Final_Exams_adaptado.png"\>
 
 ## Professores avaliadores:
 
@@ -96,3 +98,4 @@ O jogo conta com dois grupos de adversários:
     </td>
   </tr>
 </table>
+<img scr="Imagens do README\Rodape.png"\>
