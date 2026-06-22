@@ -1,4 +1,4 @@
-<img scr="Imagens do README\Cabecalho.png"/>
+<img src="Imagens do README\Cabecalho.png"/>
 
 # Jogo do Dilema dos Prisioneiros
 
@@ -59,7 +59,7 @@ O jogo conta com dois grupos de adversários:
 
 ## XKCD (adaptado) relevante:
 
-<img scr="Imagens do README\XKCD_Final_Exams_adaptado.png"/>
+<img src="Imagens do README\XKCD_Final_Exams_adaptado.png"/>
 
 ## Professores avaliadores:
 
@@ -98,4 +98,4 @@ O jogo conta com dois grupos de adversários:
     </td>
   </tr>
 </table>
-<img scr="Imagens do README\Rodape.png"/>
+<img src="Imagens do README\Rodape.png"/>
