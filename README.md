@@ -57,16 +57,7 @@ O jogo conta com dois grupos de adversários:
 
 ## XKCD (adaptado) relevante:
 
-<table border="0">
-  <tr>
-    <td>
-      <div style="width: 415px; height: 250px; overflow: hidden; position: relative;">
-        <img src="https://www.explainxkcd.com/wiki/images/thumb/5/5f/exam_numbers_2x.png/830px-exam_numbers_2x.png" 
-             style="position: absolute; top: -675px; left: 0; width: 415px; max-width: none;">
-      </div>
-    </td>
-  </tr>
-</table>
+![img](https://www.explainxkcd.com/wiki/images/thumb/5/5f/exam_numbers_2x.png/830px-exam_numbers_2x.png)
 
 ## Professores avaliadores:
 
