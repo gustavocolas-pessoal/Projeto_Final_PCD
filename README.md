@@ -55,9 +55,11 @@ O jogo conta com dois grupos de adversários:
 | **Imitador** | Copia exatamente a última jogada do jogador (Tit-for-Tat) |
 | **Bravo** | Retalia traições, mas perdoa após duas cooperações consecutivas |
 
-## XKCD relevante:
+## XKCD (adaptado) relevante:
 
-![img](https://www.explainxkcd.com/wiki/images/thumb/5/5f/exam_numbers_2x.png/830px-exam_numbers_2x.png)
+<div align="center">
+  <img src="https://www.explainxkcd.com/wiki/images/thumb/5/5f/exam_numbers_2x.png/830px-exam_numbers_2x.png" width="400" height="260" style="object-fit: cover; object-position: center bottom;">
+</div>
 
 ## Professores avaliadores:
 
