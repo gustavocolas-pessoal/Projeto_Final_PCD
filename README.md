@@ -33,8 +33,8 @@ pip install -r requirements.txt
           <li>:framed_picture: <b>image-1.png</b> a <b>image-5.png</b>: frames da animação de abertura da cela no menu</li>
           <li>:framed_picture: <b>Captura de tela 2026-05-11 105120.png</b>: imagem do jornal fictício de introdução</li>
         </ul>
-      <li>:notebook: <b>FINAL_PCD_explicado_(certo).ipynb</b>: relatório completo do projeto com o código comentado e pronto para rodar, acompanhado das seções de introdução, metodologia, resultados e conclusão</li>
-      <li>:notebook: <b>primeiro_rascunho.ipynb</b>: versão inicial do jogo, sem interface gráfica, rodando inteiramente no terminal - incluída para que o leitor possa acompanhar a evolução do projeto</li>
+      <li>:notebook: <b>FINAL_PCD_explicado.ipynb</b>: relatório completo do projeto com o código comentado e pronto para rodar, acompanhado das seções de introdução, metodologia, resultados e conclusão</li>
+      <li>:notebook: <b>versao_inicial.ipynb</b>: versão inicial do jogo, sem interface gráfica, rodando inteiramente no terminal - incluída para que o leitor possa acompanhar a evolução do projeto</li>
       <li>:spiral_notepad: <b>requirements.txt</b>: lista das bibliotecas necessárias para rodar o projeto</li>
     </ul>
 </ul>
